@@ -16,4 +16,8 @@
 		<PackageReference Include="Magick.NET-Q16-AnyCPU" Version="14.10.2" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\Ans.Net10.Common\Ans.Net10.Common.csproj" />
+	</ItemGroup>
+
 </Project>
