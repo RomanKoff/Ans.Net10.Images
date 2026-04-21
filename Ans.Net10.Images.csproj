@@ -17,7 +17,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Ans.Net10.Common\Ans.Net10.Common.csproj" />
+		<ProjectReference Include="..\Ans.Net10.Common\Ans.Net10.Common.csproj" />
 	</ItemGroup>
 
 </Project>
