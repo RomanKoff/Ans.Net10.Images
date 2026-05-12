@@ -4,7 +4,7 @@ using ImageMagick;
 namespace Ans.Net10.Images
 {
 
-	public static partial class _e
+	public static partial class __e
 	{
 
 		/* functions */
